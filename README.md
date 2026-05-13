@@ -34,6 +34,6 @@ Comparing sales across weekdays and time of day
 
 ## 📷 Dashboard Preview
 Yearly Sales Dashboard
-![image alt](
+![image alt](https://github.com/alfiya1888-afk/Starbucks-Dashboard/blob/b5b1ea691c687d13e50ebc3ac813a9b6221bc688/Starbucks%20Dashboard%201.png)
 Monthly Sales Dashboard
-<img width="100%" alt="Monthly Dashboard" src="assets/starbucks_dashboard_monthly.png">
+![image alt](
